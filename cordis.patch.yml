@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-client-probe
+      name: 'dsh-client-probe'
